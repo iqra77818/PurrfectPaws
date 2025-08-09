@@ -1,7 +1,8 @@
 # PurrfectPaws
 
-[Visit Purrfect Paws](https://purrfect-paws-blue.vercel.app)
-Welcome to **PurrfectPaws** – a fun and informative single-page website built with React to celebrate everything feline! From random cat images to quirky facts, this site is a cozy corner for all cat lovers.
+[Visit PurrfectPaws](https://purrfect-paws-blue.vercel.app)  
+Welcome to **PurrfectPaws** – a fun website built with React to celebrate everything feline! From random cat images to quirky facts, this site is a cozy corner for all cat lovers.
+
 
 
 
